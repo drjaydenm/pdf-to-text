@@ -1,0 +1,20 @@
+{
+  "name": "pdf-to-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drjaydenm/pdf-to-text.git"
+  },
+  "author": "drjaydenm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drjaydenm/pdf-to-text/issues"
+  },
+  "homepage": "https://github.com/drjaydenm/pdf-to-text#readme",
+  "dependencies": {
+    "pdf-extract": "^1.0.9",
+    "pdf-text-extract": "^1.4.1"
+  }
+}
